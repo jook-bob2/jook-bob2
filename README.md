@@ -10,7 +10,7 @@ const capability = {
   pronouns: "he" | "his",
   code: [Javascript, Typescript, Java, HTML, CSS, SCSS],
   tools: [React, Next, Vue, Spring, Spring-boot, React-native, Styled-Components, Jest, Docker, Jenkins],
-  architecture: ["aws", "design system pattern"],
+  architecture: ["aws", "design system pattern", "msa"],
   challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
